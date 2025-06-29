@@ -1,5 +1,5 @@
 # alpro
 
-*Arsip tugas **Algoritma Pemrograman**
+*Arsip tugas **Programming Algorithm**
 
 **pseudocode, program bahasa go, tugas pendahuluan praktikum, tubes
